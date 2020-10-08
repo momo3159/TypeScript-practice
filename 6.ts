@@ -1,0 +1,1 @@
+type Speed = "slow" | "medium" | "fase"

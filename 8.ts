@@ -1,0 +1,1 @@
+declare function giveID<T>(obj: T): T & {id: string}

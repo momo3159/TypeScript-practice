@@ -1,0 +1,3 @@
+function sumOfPos(arr: number[]){
+    
+}
